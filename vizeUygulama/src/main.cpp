@@ -1,5 +1,5 @@
 /* Kullanıcı tarafından girilecek 10 elemanlı dz[] dizi oluşturun.
-    Sonra bu dizinin içideki 2 ile bölünebilen sayılar sayısı kadar
+    Sonra bu dizinin içideki 2 ile bölünebilen sayılar sayısı kadar arr[] dizisi için yer ayırın
     dinamik arr[] dizisi oluşturun.
     Sonra bu dz[] dizisindeki 2 ile bölünebilen sayıları stack yardımı ile sıralayark arr[] dizisine atın ve arr dizisini yazdırın*/
 
